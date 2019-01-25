@@ -33,7 +33,7 @@ class JConfig {
 	public $ftp_user = 'admin';
 	public $gzip = '0';
 	public $helpurl = 'https://help.joomla.org/proxy?keyref=Help{major}{minor}:{keyref}&lang={langcode}';
-	public $host = 'localhost';
+	public $host = '157.230.179.225';
 	public $lifetime = '15';
 	public $list_limit = '20';
 	public $live_site = '';
@@ -49,7 +49,7 @@ class JConfig {
 	public $offline_message = 'This site is down for maintenance.<br /> Please check back again soon.';
 	public $offset = 'UTC';
 	public $offset_user = 'UTC';
-	public $password = '';
+	public $password = 'AVALOS350';
 	public $robots = '';
 	public $secret = 'LZLlCVcbeencSKdSCXmn0t8cPtfPQ73X';
 	public $sef = '1';
